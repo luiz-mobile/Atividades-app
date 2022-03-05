@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "178914624065",
+    "project_id": "usinaonibus",
+    "storage_bucket": "usinaonibus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178914624065:android:41cbc6b0bb14fc66d17cc0",
+        "android_client_info": {
+          "package_name": "org.usina.onibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178914624065-beq75n58qoe5vk4dp19unhaqd23ipb01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.usina.onibus",
+            "certificate_hash": "346e8a56ff3392127fa13d24bfd733b4bfbb61e9"
+          }
+        },
+        {
+          "client_id": "178914624065-64ctntmiruqvltisnmsu8l0jf0crrpff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtK6w7xeLAmVzcQZkGDy63F1mc8o03_rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178914624065-64ctntmiruqvltisnmsu8l0jf0crrpff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_stat_namei"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_stat_namekm"
+            android:title="Solicitar cadastro " />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_stat_namekm"
+            android:title="Solicitar cadastro (km)"
+            android:visible="false" />
+    </group>
+
+    <item android:title="Configurações">
+        <menu>
+            <item
+                android:id="@+id/nav_custom"
+                android:icon="@drawable/ic_stat_namess"
+                android:title="Mudar  senha" />
+            <item
+                android:id="@+id/nav_activity"
+                android:icon="@drawable/ic_stat_namesa"
+                android:title="Excluir conta" />
+        </menu>
+
+    </item>
+
+    <item android:title="Sair do app ">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/sairFragment"
+                    android:icon="@drawable/ic_stat_names"
+                    android:title="Sair" />
+
+            </group>
+        </menu>
+    </item>
+</menu>
+
+
+
+
+
+
+
+
+
+
+
+

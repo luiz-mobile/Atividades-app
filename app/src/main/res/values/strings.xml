@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Atividades USJ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Atividades Usina USJ</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Atividades Usina USJ </string>
+    <string name="menu_gallery">Atividades Usina</string>
+    <string name="menu_slideshow">Atividades Usina</string>
+    <string name="menu_custom">Atividades Usina</string>
+    <string name="menu_activity">Atividades Usina USJ</string>
+    <string name="minimum_password">Senha muito curta, insira no mínimo 6 caracteres!</string>
+    <string name="auth_failed">Falha na autenticação, verifique seu e-mail e senha ou inscreva-se</string>
+
+    <string name="home_second">Ônibus Usina</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ônibus Usina</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_abertura.xml" value="0.22" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_anexo_enviar.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_ati.xml" value="0.25" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_diaria.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_mec.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_onibus.xml" value="0.25" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_consultar_diaria.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_login_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/55819/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_abertura.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_anexo_enviar.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_ati.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_consultar_diaria.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_maps.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_sobre.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_solicitar_cadastokm.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/activity_tecnico_agricola.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/app_bar_main.xml" value="0.3496376811594203" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_campo_a_.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_custom.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_gallery.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_home.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_maps_u_s_j.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_slideshow.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/fragment_solicitar_cadastrokm.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/layout/nav_header_main.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/menu/activity_main_drawer.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/menu/main.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/mipmap-anydpi-v26/ic_launcherr.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/GAUSJ/AndroidStudioProjects/org.usina.onibus-android/app/src/main/res/mipmap-anydpi-v26/ic_launcherr_round.xml" value="0.37552083333333336" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/drawable/side_nav_bar.xml" value="0.24375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_abertura.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_anexo_enviar.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_ati.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_diaria.xml" value="0.2391304347826087" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_km.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_mec.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_apontamento_onibus.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_atualizar_senha.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_consultar_diaria.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_consultar_km.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_excluir_conta.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_fiscais.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_login_usuario.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_main.xml" value="0.234375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_main2.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_sair.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_sobre.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/activity_solicitar_cadastokm.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/app_bar_main.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/content_main.xml" value="0.33" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_campo_a_.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_campo_b_.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_custom.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_gallery.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_home.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_sair.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_slideshow.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/fragment_solicitar_cadastrokm.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/layout/nav_header_main.xml" value="0.3446557971014493" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/menu/activity_main_drawer.xml" value="0.359375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/menu/main.xml" value="0.22760416666666666" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24375" />
+        <entry key="..\:/Users/GAUSJ/Desktop/org.usina.onibus-android/app/src/main/res/mipmap-anydpi-v26/ic_launcherr.xml" value="0.24375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

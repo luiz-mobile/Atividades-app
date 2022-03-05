@@ -1,0 +1,2 @@
+rootProject.name='Atividades USJ'
+include ':app'

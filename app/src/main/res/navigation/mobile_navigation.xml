@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="org.usina.onibus.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="org.usina.onibus.ui.home.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="org.usina.onibus.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="org.usina.onibus.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/nav_activity"
+        android:name="org.usina.onibus.Main2Activity"
+        android:label="@string/menu_activity"
+        tools:layout="@layout/activity_main2" />
+    <fragment
+        android:id="@+id/nav_custom"
+        android:name="org.usina.onibus.ui.custom.CustomFragment"
+        android:label="@string/menu_custom"
+        tools:layout="@layout/fragment_custom" />
+    <fragment
+        android:id="@+id/sairFragment"
+        android:name="org.usina.onibus.SairFragment"
+        android:label="Ônibus Usina"
+        tools:layout="@layout/fragment_sair" />
+    <fragment
+        android:id="@+id/solicitar_cadastrokm"
+        android:name="org.usina.onibus.Solicitar_cadastrokm"
+        android:label="fragment_solicitar_cadastrokm"
+        tools:layout="@layout/fragment_solicitar_cadastrokm" />
+
+</navigation>
